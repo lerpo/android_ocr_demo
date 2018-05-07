@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/iqusong/Downloads/OCRDemoForAndroid-master/openCVLibrary340/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c3d3692ebc2b6b539ff5d57ebbea904cbadbdc65">
+        <dex dex="/Users/iqusong/Downloads/OCRDemoForAndroid-master/app/build/intermediates/pre-dexed/debug/classes_16ea7a00bcbff8b257d693df4dbe4c12188d871a.jar" />
+    </item>
+
+</items>
